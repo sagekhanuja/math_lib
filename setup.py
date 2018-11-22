@@ -10,7 +10,7 @@ setuptools.setup(
     description="A small example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/sagek21/math_lib",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3.6.4",
